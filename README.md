@@ -1,8 +1,20 @@
-# Hello, world! I'm Amanda! 👋
-## 🙋🏻 About me
-- Double bachelor degree in International Business 🇧🇷 and in Business Administration 🇩🇪
-- Certified in Full Stack Web Development at Kenzie Academy Brazil's intensive bootcamp
-- Currently studying towards an Analysis and Systems Development technical degree
+<h1 align="left">Hello, <s>world</s> there! I'm Amanda! </h1>
+
+<table align="right">
+    <tr><td><img src="./assets/languages.svg" width="25"> Languages</a></td></tr>
+    <tr><td><p><img src="./assets/brazil.png" height="15"> Portuguese ★★★</p></td></tr>
+    <tr><td><p><img src="./assets/USA.svg" height="15"> English ★★★</p></td></tr>
+    <tr><td><p><img src="./assets/italy.png" height="15"> Italian ★★☆</p></td></tr>
+    <tr><td><p><img src="./assets/spain.png" height="15"> Spanish ★★☆</p></td></tr>
+    <tr><td><p><img src="./assets/germany.svg" height="15"> German ★★☆</p></td></tr>
+</table>
+
+<h3 align="left"> 
+    <img src="./assets/hi_gif.gif" width="21"></a> About me</h3>
+<p>- Double bachelor degree in International Business <img src="./assets/brazil.png" height="15"> and in Business Administration <img src="./assets/germany.svg" height="15"> </p>
+<p>- Certified in Full Stack Web Development at Kenzie Academy Brazil's intensive bootcamp</p>
+<p>- Currently studying towards an Analysis and Systems Development technical degree</p>
+<br>
 
 ## 🧑🏻‍💻 Skillset
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,10 +46,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984038475)
 
 <!--
-**amandadolci/amandadolci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
